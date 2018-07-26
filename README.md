@@ -2,7 +2,7 @@
 ===
 
 ## Submission Instructions
-  * **If you do not include links in your README to online resources you utilized, you will get a 0.**
+  * **If you do not include links in your README to online resources you utilized, OR you do not comment your code, you will get a 0.**
   * Work in a fork of this repository
   * Work in a branch on your fork called `lab-33`
   * Submit a pull request to your repository
