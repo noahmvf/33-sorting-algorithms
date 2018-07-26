@@ -16,7 +16,7 @@
 
 #### Feature Tasks 
 * Research and implement three sorting algorithms in Javascript. Refer to [the Wikipedia page](https://en.wikipedia.org/wiki/Sorting_algorithm) on various algorithms
-   * There are LOTS of resources out there in Javascript about these topics
+   * There are LOTS of resources out there in Javascript about these topics. One of the great ones is [Visual Algo](https://visualgo.net/bn/sorting) for visualizations of how the algorithm works. 
    * You should definitely rely on these resources, **BUT DO NOT BLATANTLY COPY/PASTE CODE THAT YOU FIND ONLINE**
    * Write comments in your code on what each line is doing so it is clear you made a concerted effort you tried to understand it
 
