@@ -1,4 +1,4 @@
-import bubbleSort from '../lib/sorts';
+import { bubbleSort, merge, mergeSort } from '../lib/sorts'; //eslint-disable-line
 
 describe('testing bubble sort', () => {
   test('bubble sort of an array', () => {
